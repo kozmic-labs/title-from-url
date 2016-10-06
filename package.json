@@ -1,0 +1,25 @@
+{
+  "name": "title-from-url",
+  "version": "0.0.1",
+  "description": "Generate a title from given URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "title",
+    "url"
+  ],
+  "repository": {
+    "url": "git@github.com:kozmic-labs/title-from-url.git",
+    "type": "git"
+  },
+  "author": "Azer Koçulu <azer@kodfabrik.com>",
+  "license": "BSD",
+  "devDependencies": {
+    "prova": "^2.1.2"
+  },
+  "dependencies": {
+    "to-title": "0.0.0"
+  }
+}
